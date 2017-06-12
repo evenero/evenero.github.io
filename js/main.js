@@ -21,9 +21,9 @@
   };
 })();
 
-// document.ready(function(){
-// 	alert("test sucessful!!!");
-// });
+document.ready(function(){
+	alert("test successful!!!");
+});
 
 
 //插入指定的容器中
